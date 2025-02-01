@@ -1,0 +1,7 @@
+{
+  "plugin_name": "LampaMoviesPlugin",
+  "plugin_version": "1.0",
+  "plugin_description": "Fetches movies from uakino.me and rezka-ua.org.",
+  "plugin_author": "Your Name",
+  "plugin_website": "https://github.com/yourusername/LampaMoviesPlugin"
+}
